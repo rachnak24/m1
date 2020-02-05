@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="52" started-at="2020-01-17T13:29:41 CST" finished-at="2020-01-17T13:29:41 CST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="52" started-at="2020-01-17T13:29:41 CST" finished-at="2020-01-17T13:29:41 CST">
+      <class name="D2.Demo1.Test1">
+        <test-method status="PASS" signature="Carlogin()[pri:0, instance:D2.Demo1.Test1@52a86356]" name="Carlogin" duration-ms="12" started-at="2020-01-17T13:29:41 CST" finished-at="2020-01-17T13:29:41 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Carlogin -->
+        <test-method status="PASS" signature="Mobilelogin()[pri:0, instance:D2.Demo1.Test1@52a86356]" name="Mobilelogin" duration-ms="1" started-at="2020-01-17T13:29:41 CST" finished-at="2020-01-17T13:29:41 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Mobilelogin -->
+      </class> <!-- D2.Demo1.Test1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
